@@ -40,7 +40,8 @@ streamlit run app.py
 Access the app here: [AI-Powered Resume Screening App](https://mukd2jme7eb98s7ckj36aq.streamlit.app/)
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![Screenshot png](https://github.com/user-attachments/assets/ef51dfc9-f0bc-43c2-b47b-2e52adfe63dd)
+
 
 ## How to Access the Deployed App
 If the app is deployed on **Streamlit Cloud**, share the app link with users.
