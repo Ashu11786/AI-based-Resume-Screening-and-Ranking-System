@@ -6,5 +6,4 @@ scikit-learn
 torch
 transformers
 sentence-transformers
-pdfplumber
 docx2txt
